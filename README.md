@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+#![Lazy Leopard Club SS](https://user-images.githubusercontent.com/100062048/155754845-7d2969e8-619b-44d0-a9df-c4a873fe2262.png)
+ Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
